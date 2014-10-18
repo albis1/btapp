@@ -1,0 +1,5 @@
+albis_btapp:
+    resource: "@AlbisBtappBundle/Resources/config/routing.yml"
+    prefix:   /
+
+

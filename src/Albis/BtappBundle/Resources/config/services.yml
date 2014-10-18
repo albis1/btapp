@@ -1,0 +1,4 @@
+services:
+#    albis_btapp.example:
+#        class: Albis\BtappBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

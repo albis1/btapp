@@ -1,0 +1,3 @@
+albis_btapp_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: AlbisBtappBundle:Default:index }
